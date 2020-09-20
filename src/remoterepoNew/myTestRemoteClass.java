@@ -7,6 +7,8 @@ public class myTestRemoteClass {
 		System.out.println("this is new remote options");
 		System.out.println("its update");
 		System.out.println("this is update with shyam");
+		System.out.println("test with multiple");
+		System.out.println("test");
 
 	}
 
